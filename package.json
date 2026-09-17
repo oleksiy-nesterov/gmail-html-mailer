@@ -1,0 +1,16 @@
+{
+  "name": "gmail-html-mailer",
+  "version": "1.0.0",
+  "description": "Send personalized HTML emails through Gmail SMTP with App Password auth.",
+  "type": "module",
+  "scripts": {
+    "send": "node src/send.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "nodemailer": "^10.0.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

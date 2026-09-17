@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="455" height="120" viewBox="0 0 455 120">
+  <g>
+    <text x="10" y="76" font-family="Arial Rounded MT Bold, Trebuchet MS, Arial, sans-serif" font-size="48" font-weight="800" fill="#ff9e00">
+      Gmail
+    </text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -16; 0 0; 0 16; 0 0; 0 0" keyTimes="0; 0.10; 0.20; 0.30; 0.40; 1" dur="3s" begin="0s" repeatCount="indefinite" />
+  </g>
+  <g>
+    <text x="153" y="76" font-family="Arial Rounded MT Bold, Trebuchet MS, Arial, sans-serif" font-size="48" font-weight="800" fill="#ff6000">
+      HTML
+    </text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -16; 0 0; 0 16; 0 0; 0 0" keyTimes="0; 0.10; 0.20; 0.30; 0.40; 1" dur="3s" begin="0.18s" repeatCount="indefinite" />
+  </g>
+  <g>
+    <text x="298" y="76" font-family="Arial Rounded MT Bold, Trebuchet MS, Arial, sans-serif" font-size="48" font-weight="800" fill="#ff4800">
+      Mailer
+    </text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -16; 0 0; 0 16; 0 0; 0 0" keyTimes="0; 0.10; 0.20; 0.30; 0.40; 1" dur="3s" begin="0.36s" repeatCount="indefinite" />
+  </g>
+</svg>
